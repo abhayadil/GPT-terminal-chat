@@ -4,3 +4,8 @@ This is a simple terminal based chatbot that remembers the conversation and inte
 This code is designed to be run on the terminal and it will launch a conversation with ChatGPT through its api
 
 You will need to provide your own api from OpenAI.com
+
+Instructions:
+- Type your question and click enter
+- ChatGPT will give its answer
+- To end chat type '...end' in lowercase
