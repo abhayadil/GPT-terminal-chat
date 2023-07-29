@@ -25,7 +25,7 @@ print(" Interact with ChatGPT 3.5\n")
 print(" Instructions:\n - Type your question and click enter\n - ChatGPT will give its answer\n - To end chat type '...end' in lowercase\n")
 print(" Ask your question:")
 
-while inputer != '...end':
+while inputer != triker:
     inputer = input(" >>>  ")
     prompt = inputer
     response = get_completion(prompt)
